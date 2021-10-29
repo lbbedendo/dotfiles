@@ -1,0 +1,9 @@
+[user]
+	name = Leonardo Barbieri Bedendo
+	email = <email>
+[pull]
+	rebase = false
+[core]
+	editor = vim
+[pager]
+	branch = false
