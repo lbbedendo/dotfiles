@@ -1,0 +1,7 @@
+[user]
+	email = leonardobdn@gmail.com
+	name = Leonardo Barbieri Bedendo
+[pager]
+	branch = false
+[core]
+	editor = vim
